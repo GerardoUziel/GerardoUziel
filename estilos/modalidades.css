@@ -1,0 +1,26 @@
+p{
+    text-align: justify;
+    margin-left: 5%;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+h2{
+    font-family: cursive;
+    color: crimson;
+}
+h3{
+    font-family: cursive;
+}
+#capaadmin{
+    float: left;
+    display: flex;
+}
+
+#emsss{
+    margin-left: 15%;
+}
+.move{
+    margin-left: 17%;
+}

@@ -1,0 +1,22 @@
+#titulo{
+    text-align: center;
+    color:cadetblue;
+}
+.subtitulo{
+    text-align: left;
+    font-size: 30px;
+}
+.texto{
+    text-align: justify;
+}
+h1{
+    font-family: cursive;
+    color:blueviolet;
+}
+h2{
+    font-family: cursive;
+    padding-left: 3%
+}
+.imagen{
+    
+}

@@ -1,0 +1,40 @@
+#barralat{
+    display:inline-block;
+    float: left;
+    width: 25%;
+    border: outset;
+    border-color: darkgray;
+}
+#barra{
+    float: left;
+    width: 55%;
+    text-align: center;
+    
+}
+#info{
+    color: cadetblue;
+   text-align: center;
+}
+}
+#texto{
+    color: chocolate;
+    text-align: center;
+    padding-left: 60%;
+}
+#jaguarim{
+    justify-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    justify-content: center;
+    text-align:justify;
+    padding-left: 5%
+}
+h2{
+    font-family:sans-serif;
+}
+#face{
+    text-align: center;
+    padding-left: 5%;
+}
